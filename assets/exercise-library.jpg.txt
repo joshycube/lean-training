@@ -1,0 +1,1 @@
+Binary exercise library image is committed via Git objects; this marker documents the asset.
